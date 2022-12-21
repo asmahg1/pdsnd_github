@@ -11,7 +11,11 @@ In this project, you will make use of Python to explore data related to bike sha
 You will write code to import the data and answer interesting questions about it by computing descriptive statistics. 
 You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 ### Files used
+
 Include the files used
+1-chicago
+2-new_york_city
+3-washington
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
